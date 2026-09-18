@@ -11,6 +11,8 @@ Type a command and press **Enter**. Press **Esc** to close the console and resum
 - `add pp 50` — Adds 50 power points.
 - `add xp 100000` — Adds 100,000 XP to level up.
 - Press **P** after closing the console to spend your points.
+- Some powers you have to activate by holding left alt and selecting your power
+  - Then, hold down right click to aim and press left click to fire
 
 ## 💾 Save & load
 
